@@ -8,4 +8,4 @@ Start time: 3:12
 
 Finish time: 4:12
 
-Actual time needed to complete: 4:00
+Actual time needed to complete: 7:00
