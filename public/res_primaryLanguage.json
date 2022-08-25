@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Islam Alghoul. Fictional person for preview purposes :) I'm working with newest front-end frameworks like  React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "pizzachocolate",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for creating a web that is related to creat b cards,I've earned A grade :)",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://islamalghoul.github.io/chocolate/assets/choco-pizza.png",
+          "https://thumbs.dreamstime.com/b/chocolate-cocoa-powder-chocolate-pieces-cocoa-powder-bowl-balls-wooden-table-125953683.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "HornedBeasts",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for creating a web that is related to creat HornedBeasts cards,I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://images.unsplash.com/photo-1512636618879-bbe79107e9e3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd9460ee6d1ddbb6b1ca7be86dfc4590&auto=format&fit=crop&w=1825&q=80",
+          "https://www.nps.gov/band/learn/nature/images/short-horned-lizard-open-mouth-18.jpg?maxwidth=650&autorotate=false"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "my-restaurant",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for creating a web that is related to a restaurant  I've earned A grade :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://camo.githubusercontent.com/bb85ed94eb589859af5b2bcde9f78134916ab44d2faba397522969b39e77d007/68747470733a2f2f616c6d6f7573616c6c692e636f6d2f73697465732f64656661756c742f66696c65732f323032302d30322f38326237316165372d313536642d346138322d396166322d3061653239666262666361372e6a7067",
+          "https://islamalghoul.github.io/my-restaurant/old_assests/photo-1633896949673-1eb9d131a9b4_1.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,38 +81,23 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "LTUC",
+        "title": "trainee in",
+        "years": "7.2022- present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Paython"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Python",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Node"
+        
         ]
       }
+      
     ]
   }
